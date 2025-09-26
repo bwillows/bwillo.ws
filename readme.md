@@ -1,6 +1,6 @@
 visibility types 
 - "public"
 - "private" ( admin only )"
-- "paid"
+- "paid" ?
 - "logged_in"
 - "user" ( logged in )
